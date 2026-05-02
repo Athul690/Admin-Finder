@@ -1,4 +1,4 @@
-# 🖥️ GUI Admin Panel Finder
+# 🖥️ Admin Panel Finder with GUI
 
 A clean, fast GUI tool with **three built‑in wordlists** (One, Two, Three).
 
